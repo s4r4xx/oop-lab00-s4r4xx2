@@ -6,7 +6,7 @@
 - Wersja Git: 2.54.0.windows.1
 - Wersja kompilatora C++: 15.2.0 (MSYS2)
 - Wersje java i javac: 25.0.4.1
-- Link do pierwszego PR (uzupełnij w zadaniu 5): ...
+- Link do pierwszego PR (uzupełnij w zadaniu 5): https://github.com/s4r4xx/oop-lab00-s4r4xx2/pull/1
 
 ## Uruchomienie lokalne
 Wynik programu C++:
