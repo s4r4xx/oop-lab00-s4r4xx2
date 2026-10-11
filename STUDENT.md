@@ -24,12 +24,12 @@ Wow
 - Krótki fragment komunikatu błędu i numer linii: linia nr 6, komunikat: "expected ';' before 'return'"
 - Przyczyna oraz sposób naprawy: Dopisanie brakującego średnika (`;`) na końcu linijki kodu, tuż przed instrukcją `return 0;`.
 - Commit z błędem (SHA lub link): https://github.com/s4r4xx/oop-lab00-s4r4xx2/pull/1
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Czy Actions pokazały błąd, a po naprawie sukces? Tak.
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? commit zapisuje zmiany na moim własnym komputerze, a push wysyła zapisane zmiany do repozytorium zdalnego
 2. Dlaczego po scaleniu PR wykonuję lokalnie pull? ...
-3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? ...
+3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? Potwierdza, że kod jest poprawny pod kątem składni i że program daje się uruchomić, kończąc działanie bez błędów systemowych. Nie potwierdza poprawności merytorycznej ani logiki działania programu.
 
 ## Ewentualne problemy środowiska
 Brak / opis problemu i sposób rozwiązania: ...
